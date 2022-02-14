@@ -3,10 +3,10 @@
 <html>
 
 <body>
-	<!-- Heading -->
+	
 	<h3> HTML input form </h3>
 
-	<!-- HTML form -->
+	
 	<form method="POST">
 		<h4> Name : </h4>
 		<input type="text" name="name"><br>
